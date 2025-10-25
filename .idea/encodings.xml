@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/alexandria-lib/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alexandria-lib/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/alexandria-lib/src/resources/alexandria.db" charset="UTF-8" />
-=======
-    <file url="file://$PROJECT_DIR$/alexandria-lib/alexandria-lib/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/alexandria-lib/alexandria-lib/src/main/resources" charset="UTF-8" />
->>>>>>> 47eb78835139393ea0ed847e94a702861a4bbb07
+    <file url="file://$USER_HOME$/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
