@@ -4,8 +4,9 @@ public record Book(
         String title,
         String author,
         int dataRelease,
-        String gender,
+        String genre,
+        int pages,
         String rating,
-        String ISNB
+        String isbn
 ) {
 }
