@@ -37,3 +37,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# ===== Notion (credenciais) =====
+notion-config.json
+.env
+
+# ===== Temporários =====
+*.tmp
+*.temp
+*.swp
+*.swo
+*~.nib
