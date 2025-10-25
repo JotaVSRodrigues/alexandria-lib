@@ -10,9 +10,12 @@
       </profile>
     </annotationProcessing>
   </component>
+<<<<<<< HEAD
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="alexandria-lib" options="--enable-native-access=ALL-UNNAMED" />
     </option>
   </component>
+=======
+>>>>>>> 47eb78835139393ea0ed847e94a702861a4bbb07
 </project>

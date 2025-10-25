@@ -2,7 +2,11 @@
 <module version="4">
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/alexandria-lib/src" isTestSource="false" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/alexandria-lib/alexandria-lib/src" isTestSource="false" />
+>>>>>>> 47eb78835139393ea0ed847e94a702861a4bbb07
     </content>
   </component>
 </module>
